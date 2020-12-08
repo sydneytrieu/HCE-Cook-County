@@ -5,5 +5,4 @@ Developed under the Human Contexts & Ethics (HCE) team within the Data Science E
 | Folder Name | Description | 
 | ----- | ----- |
 | `data` | Files for the data used in Cook County's assessments. |
-| `ds100` | Jupyter notebooks adapted to the Data 100 curriculum. |
-| `hce` | Jupyter notebooks for HCE content specifically. |
+| `notebooks` | Jupyter notebooks adapted to the Data 100 curriculum. |
